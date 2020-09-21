@@ -28,8 +28,8 @@ access_key = AKIAJWVN5Z4FOFT7NLNA
 secret_key = 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
 
 # Azure
-client_id: 408bf248-dd4e-4be5-919a-7f6207a307ab
-client_secret: ad06228a-2db9-4e0a-8a5d-e047c7f32594
+client_id = 408bf248-dd4e-4be5-919a-7f6207a307ab
+client_secret = ad06228a-2db9-4e0a-8a5d-e047c7f32594
 
 # GCP
 
