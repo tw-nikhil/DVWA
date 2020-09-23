@@ -24,8 +24,8 @@ token="secr3t"
 ## Cloud Specific secrets
 
 # AWS
-access_key = AKIAJWVN5Z4FOFT7NLNA
-secret_key = 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
+access_key=AKIAJWVN5Z4FOFT7NLNA
+secret_key=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
 
 # Azure
 client_id = 408bf248-dd4e-4be5-919a-7f6207a307ab
