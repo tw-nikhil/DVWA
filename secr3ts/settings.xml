@@ -8,6 +8,14 @@ pass="P@ssword@123"
 Pwd="P@ssword@123"
 pwd="P@ssword@123"
 
+## Generic passwords with space before and after '=':
+
+Password = "P@ssword@123"
+password = "P@ssword@123"
+Pass = "P@ssword@123"
+pass = "P@ssword@123"
+Pwd = "P@ssword@123"
+pwd = "P@ssword@123"
 
 ## Generic Secret/Key/Token
 
@@ -20,6 +28,17 @@ keys="secr3t"
 Token="secr3t"
 token="secr3t"
 
+## Generic Secret/Key/Token with space before and after '=':
+
+Secret = "secr3t"
+secret = "secr3t"
+Key = "secr3t"
+key = "secr3t"
+Keys = "secr3t"
+keys = "secr3t"
+Token = "secr3t"
+token = "secr3t"
+
 
 ## Cloud Specific secrets
 
@@ -27,11 +46,19 @@ token="secr3t"
 access_key=AKIAJWVN5Z4FOFT7NLNB
 secret_key=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
 
+access_key = AKIAJWVN5Z4FOFT7NLNB
+secret_key = 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
+
 # Azure
+client_id=408bf248-dd4e-4be5-919a-7f6207a307ab
+client_secret=ad06228a-2db9-4e0a-8a5d-e047c7f32594
+
 client_id = 408bf248-dd4e-4be5-919a-7f6207a307ab
 client_secret = ad06228a-2db9-4e0a-8a5d-e047c7f32594
 
 # GCP
+service_account_key=asdfasdfasdfasfd
+
 service_account_key = asdfasdfasdfasfd
 
 # Digital Ocean
